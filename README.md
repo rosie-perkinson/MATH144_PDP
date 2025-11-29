@@ -10,7 +10,7 @@ In order to carry out the analysis below, I removed some columns that were mostl
 
 ## Exploratory Analysis
 
-### linked here: https://github.com/rosie-perkinson/MATH144_PDP/blob/main/Vis1.png
+ ![visulaization 1](Vis1.png)
 
 The visualization above shows changes in Total Salinity (ppm) over time across seven Hudson River sampling sites: Beacon, Beczak, Green Island, Norrie Point, Piermont, River Project, and Ulster Landing. Each panel displays the site-specific salinity trends with both raw yearly measurements and a fitted linear trend line.
 A few patterns stand out:
