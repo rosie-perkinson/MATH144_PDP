@@ -11,6 +11,7 @@ In order to carry out the analysis below, I removed some columns that were mostl
 ##Exploratory Analysis
 
 linked here: https://github.com/rosie-perkinson/MATH144_PDP/blob/main/Vis1.png
+
 The visualization above shows changes in Total Salinity (ppm) over time across seven Hudson River sampling sites: Beacon, Beczak, Green Island, Norrie Point, Piermont, River Project, and Ulster Landing. Each panel displays the site-specific salinity trends with both raw yearly measurements and a fitted linear trend line.
 A few patterns stand out:
 1. Strong Geographic Differences in Salinity Levels: Some sites (particularly River Project, Piermont, and Beczak) regularly show salinity levels well above the 100 ppm salt-front threshold, with values sometimes rising into the thousands or tens of thousands of ppm. This indicates that these sites are closer to the tidal region of the Hudson and are more directly influenced by seawater intrusion. Other locations, such as Green Island, Norrie Point, and Ulster Landing, consistently report much lower salinity values, typically under 100 ppm. These sites appear to be farther upriver, where freshwater influence dominates.
