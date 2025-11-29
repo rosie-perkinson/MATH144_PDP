@@ -1,12 +1,17 @@
 # Rosie_MATH144_PDP
+
 ##Introduction
+
 For my Personal Data Project for my Math 144 class at Vassar College, I decided to explore a data set collected by the Cary Institute of Ecosystem Studies. Salinity was measured in parts per million (ppm) using Quantab strips, hydrometers, and refractometers. On the Hudson River, scientists consider salinity readings of 100ppm or higher as an indicator of the presence of seawater (ocean salt). The salt front, the leading edge of seawater pushing up the Hudson River, is located where salinity equals 100ppm. The initial .csv was exported from their website (https://www.caryinstitute.org/eco-inquiry/hudson-data-jam-competition/datasets/salt-levels-hudson-river-snapshot-day).
+
 ##Data Processing
+
 In order to carry out the analysis below, I removed some columns that were mostly empty or resulted in NR. I changed the Total Salinity (ppm) column to match numerically. I ordered the dates by m/y/d, and changed the year to be uniformly documented. 
+
 ##Exploratory Analysis
+
 linked here: https://github.com/rosie-perkinson/MATH144_PDP/blob/main/Vis1.png
 The visualization above shows changes in Total Salinity (ppm) over time across seven Hudson River sampling sites: Beacon, Beczak, Green Island, Norrie Point, Piermont, River Project, and Ulster Landing. Each panel displays the site-specific salinity trends with both raw yearly measurements and a fitted linear trend line.
-
 A few patterns stand out:
 1. Strong Geographic Differences in Salinity Levels: Some sites (particularly River Project, Piermont, and Beczak) regularly show salinity levels well above the 100 ppm salt-front threshold, with values sometimes rising into the thousands or tens of thousands of ppm. This indicates that these sites are closer to the tidal region of the Hudson and are more directly influenced by seawater intrusion. Other locations, such as Green Island, Norrie Point, and Ulster Landing, consistently report much lower salinity values, typically under 100 ppm. These sites appear to be farther upriver, where freshwater influence dominates.
 2. Increasing Trends Over Time: Most sites show a modest increasing trend in salinity based on the linear fits. While variability from year to year is large, especially at the more saline sites, the general upward slope suggests that seawater is pushing farther upriver over the 2005–2022 period. This pattern aligns with long-term concerns about sea-level rise causing the Hudson salt front to migrate upstream.
