@@ -1,16 +1,16 @@
 # Rosie_MATH144_PDP
 
-##Introduction
+## Introduction
 
 For my Personal Data Project for my Math 144 class at Vassar College, I decided to explore a data set collected by the Cary Institute of Ecosystem Studies. Salinity was measured in parts per million (ppm) using Quantab strips, hydrometers, and refractometers. On the Hudson River, scientists consider salinity readings of 100ppm or higher as an indicator of the presence of seawater (ocean salt). The salt front, the leading edge of seawater pushing up the Hudson River, is located where salinity equals 100ppm. The initial .csv was exported from their website (https://www.caryinstitute.org/eco-inquiry/hudson-data-jam-competition/datasets/salt-levels-hudson-river-snapshot-day).
 
-##Data Processing
+## Data Processing
 
 In order to carry out the analysis below, I removed some columns that were mostly empty or resulted in NR. I changed the Total Salinity (ppm) column to match numerically. I ordered the dates by m/y/d, and changed the year to be uniformly documented. 
 
-##Exploratory Analysis
+## Exploratory Analysis
 
-linked here: https://github.com/rosie-perkinson/MATH144_PDP/blob/main/Vis1.png
+### linked here: https://github.com/rosie-perkinson/MATH144_PDP/blob/main/Vis1.png
 
 The visualization above shows changes in Total Salinity (ppm) over time across seven Hudson River sampling sites: Beacon, Beczak, Green Island, Norrie Point, Piermont, River Project, and Ulster Landing. Each panel displays the site-specific salinity trends with both raw yearly measurements and a fitted linear trend line.
 A few patterns stand out:
