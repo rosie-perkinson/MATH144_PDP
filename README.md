@@ -1,8 +1,8 @@
 # Rosie_MATH144_PDP
 
-## Introduction
+## Introduction + Motivation
 
-For my Personal Data Project for my Math 144 class at Vassar College, I decided to explore a data set collected by the Cary Institute of Ecosystem Studies. Salinity was measured in parts per million (ppm) using Quantab strips, hydrometers, and refractometers. On the Hudson River, scientists consider salinity readings of 100ppm or higher as an indicator of the presence of seawater (ocean salt). The salt front, the leading edge of seawater pushing up the Hudson River, is located where salinity equals 100ppm. The initial .csv was exported from their website (https://www.caryinstitute.org/eco-inquiry/hudson-data-jam-competition/datasets/salt-levels-hudson-river-snapshot-day).
+For my Personal Data Project for my Math 144 class at Vassar College, I decided to explore a data set collected by the Cary Institute of Ecosystem Studies. I have heard about how the rising sea levels have impacted the Hudson River’s salinity levels, and I wanted to see how true that is. Salinity was measured in parts per million (ppm) using Quantab strips, hydrometers, and refractometers. On the Hudson River, scientists consider salinity readings of 100ppm or higher as an indicator of the presence of seawater (ocean salt). The salt front, the leading edge of seawater pushing up the Hudson River, is located where salinity equals 100ppm. The initial .csv was exported from their website (https://www.caryinstitute.org/eco-inquiry/hudson-data-jam-competition/datasets/salt-levels-hudson-river-snapshot-day).
 
 ## Data Processing
 
