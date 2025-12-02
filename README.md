@@ -6,7 +6,7 @@ For my Personal Data Project for my Math 144 class at Vassar College, I decided 
 
 ## Data Processing
 
-In order to carry out the analysis below, I removed some columns that were mostly empty or resulted in NR. I changed the Total Salinity (ppm) column to match numerically. I ordered the dates by m/y/d, and changed the year to be uniformly documented. 
+ My first data cleaning process was getting rid of rows that were missing data or resulted in NR. I justified this because there were few instances of this, and each had many other recordings within their site. Also, calculating the average wouldn't have made a ton of sense because it fluctuates throughout the years. Within the data, there were some consistency issues, so I changed the dates to mm-dd-yy and got rid of commas within the salinity levels. Last, I cleaned inconsistent spacing in the Site Name field.
 
 ## Exploratory Analysis
 
