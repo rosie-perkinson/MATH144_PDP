@@ -10,7 +10,7 @@ In order to carry out the analysis below, I removed some columns that were mostl
 
 ## Exploratory Analysis
 
- ![visulaization 1](Vis1.png)
+ ![visulaization 1](Vis1reordered.png)
 
 The visualization above shows changes in Total Salinity (ppm) over time across seven Hudson River sampling sites: Beacon, Beczak, Green Island, Norrie Point, Piermont, River Project, and Ulster Landing. Each panel displays the site-specific salinity trends with both raw yearly measurements and a fitted linear trend line. For my analysis, I used simple linear regression to quantify how salinity changed over time at each site. I chose this technique because it allowed me to move beyond visual interpretation and measure whether salinity was increasing. The regression results showed positive slopes at most sites, supporting the idea that seawater influence has been gradually increasing over the 2005–2022 period. This reinforces ecological concerns about the upstream migration of the Hudson River salt front.
 
